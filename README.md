@@ -9,7 +9,7 @@
 
 **Objective :**
 
-- Motive is delve into the data for further exploration to find if the Exit Poll result matches with the actual outcome.
+- Motive is to delve into the data for further exploration to find if the Exit Poll result matches with the actual outcome.
 
 **Dataset Description :**
 
